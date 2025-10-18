@@ -1,5 +1,10 @@
 Excellent question, Chip — and I like how you’re thinking about **making this repeatable and self-sustaining**.
 
+HERE IS THE EVERNOTE STEPS → → 
+
+You can access my Evernote resource here: [Evernote — Working Notes](https://share.evernote.com/note/c6387b84-70ed-0eb3-197f-7425fdac2400)
+
+
 Let me make this simple for you: you don’t need multiple separate copies anymore.
 Below is a **single, complete document** you can paste directly into GitHub as your `NOTES-&-INSTRUCTIONS.md` file.
 
